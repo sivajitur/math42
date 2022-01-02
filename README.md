@@ -1,4 +1,4 @@
-# math42
+# Final Project
 For our final project, we had to stochastically model the US National Deficit. 
 
 For that, we created a model based on the past 30 years of data and modelled the next decade (2021 - 2031).
